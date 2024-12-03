@@ -1,6 +1,6 @@
 # Internship and Training Website
 
-This project was developed during my internship at IDA Academy and showcases a dynamic and interactive platform for internship and training programs.
+This project was developed during our internship at IDA Academy and showcases a dynamic and interactive platform for internship and training programs.
 
 ## Features
 - **Pages Designed**: Home, About, Internship, Training, Blog, and Contact.
