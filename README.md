@@ -15,7 +15,7 @@ The website provides an intuitive and user-friendly interface that highlights in
 
 ## Project Structure
 ```
-|-- home.html         # Home page
+|-- index.html         # Home page
 |-- about.html         # About page
 |-- internship.html    # Internship page
 |-- training.html      # Training page
@@ -31,4 +31,4 @@ The website provides an intuitive and user-friendly interface that highlights in
 ```
 
 
-Open `home.html` in your browser to view the website.
+Open `index.html` in your browser to view the website.
